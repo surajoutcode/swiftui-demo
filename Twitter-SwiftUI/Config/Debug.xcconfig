@@ -1,0 +1,11 @@
+//
+//  Debug.xcconfig
+//  Twitter-SwiftUI
+//
+//  Created by Suraj Bhandari on 02/03/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL = http:\/\/localhost:3000/
